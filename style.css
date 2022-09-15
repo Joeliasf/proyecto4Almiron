@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    border: 0.5cm solid black;
+    border-radius: 10cm;
+}
+.ganador {
+    margin-top: 30px;
+    text-align: center;
+    border: 0.5cm solid green;
+    border-radius: 5cm;
+    background-color: blue
+}
+.perdedor {
+    margin-top: 30px;
+    text-align: center;
+    border: 0.5cm solid red;
+    border-radius: 5cm;
+    background-color: black;
+    color : white;
+}
+#boton button{
+    margin-top: 15px;
+    border: 0.2cm solid blue;
+    border-radius: 10cm;
+}
+#refresh button{
+    margin-top: 15px;
+    border: 0.2cm solid blue;
+    border-radius: 10cm;
+}
